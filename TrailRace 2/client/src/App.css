@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+h2{
+  font-family: w3-monospace;
+}
+.reg, .log{
+  margin-top: 75px;
+}
+
