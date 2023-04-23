@@ -1,4 +1,5 @@
 # Java-Projects
+# Java projects to learn, develop, and gain mastery over Java fundamentals, Java OOP, and Full CRUD Srping Java Applications
 
 Technologies:
 
@@ -40,7 +41,8 @@ Projects Objectives:
   
     Creation of a model-view-controller app with Spring Boot
   
-    Create multi-view web application for create/read/update/delete sceenarious such as eCommerce sites
+    Create multi-view web application for create/read/update/delete scnearios
+    such as eCommerce sites
   
     Creating of RESTful APIs
   
