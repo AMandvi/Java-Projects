@@ -1,5 +1,5 @@
 # Java-Projects
-# Java projects to learn, develop, and gain mastery over Java fundamentals, Java OOP, and Full CRUD Srping Java Applications
+# Java projects to learn, develop, and gain mastery over Java fundamentals, Java OOP, and Full CRUD Spring Java Applications
 
 Technologies:
 
